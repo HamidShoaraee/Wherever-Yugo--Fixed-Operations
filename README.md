@@ -22,6 +22,6 @@ The new system is presented in the **information_system.ipynb** file improves th
 
 Contributors:
 
-Charlene
-Marina
+Charlene,
+Marina,
 Hamid

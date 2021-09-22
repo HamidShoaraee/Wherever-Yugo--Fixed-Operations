@@ -18,4 +18,9 @@ The purpose of this project is for the systems analyst to recommend an ERP syste
 # Insight 
 In the previous system the Service Advisor being responsible for all the information input and data wrangling , this task is now divided between service (advisor and technician) and parts department under umbrella of the new integrated system. 
 
-The new system which is presented in the **information_system.ipynb** file improves the profitability by optimizing the previous information system in various aspects. 
+The new system is presented in the **information_system.ipynb** file improves the profitability by optimizing the previous information system in various aspects. This Notebook presents the **summary** of our group study through this project. 
+
+Contributors: 
+Charlene 
+Marina 
+Hamid

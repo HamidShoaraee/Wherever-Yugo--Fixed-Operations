@@ -20,7 +20,10 @@ In the previous system the Service Advisor being responsible for all the informa
 
 The new system is presented in the **information_system.ipynb** file improves the profitability by optimizing the previous information system in various aspects. This Notebook presents the **summary** of our group study through this project. 
 
-Contributors: 
-Charlene 
-Marina 
+Contributors:
+
+Charlene
+ 
+Marina
+ 
 Hamid
